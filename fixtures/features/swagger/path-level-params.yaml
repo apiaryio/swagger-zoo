@@ -22,6 +22,11 @@ paths:
           description: Query argument
           type: string
           required: true
+        - name: search
+          in: query
+          description: Search query parameter using elastic search
+          type: string
+          required: true
       responses:
         204:
           description: Test description

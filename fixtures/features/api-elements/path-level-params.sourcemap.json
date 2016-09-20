@@ -197,7 +197,7 @@
                     "content": [
                       [
                         78,
-                        497
+                        655
                       ]
                     ]
                   }
@@ -250,7 +250,7 @@
                             "content": [
                               [
                                 389,
-                                122
+                                124
                               ]
                             ]
                           }
@@ -278,7 +278,149 @@
                                 "content": [
                                   [
                                     389,
-                                    122
+                                    124
+                                  ]
+                                ]
+                              }
+                            ]
+                          },
+                          "content": null
+                        }
+                      }
+                    },
+                    {
+                      "element": "member",
+                      "meta": {
+                        "description": {
+                          "element": "string",
+                          "meta": {},
+                          "attributes": {
+                            "sourceMap": [
+                              {
+                                "element": "sourceMap",
+                                "meta": {},
+                                "attributes": {},
+                                "content": [
+                                  [
+                                    558,
+                                    56
+                                  ]
+                                ]
+                              }
+                            ]
+                          },
+                          "content": "Search query parameter using elastic search"
+                        }
+                      },
+                      "attributes": {
+                        "sourceMap": [
+                          {
+                            "element": "sourceMap",
+                            "meta": {},
+                            "attributes": {},
+                            "content": [
+                              [
+                                515,
+                                154
+                              ]
+                            ]
+                          }
+                        ],
+                        "typeAttributes": [
+                          "required"
+                        ]
+                      },
+                      "content": {
+                        "key": {
+                          "element": "string",
+                          "meta": {},
+                          "attributes": {},
+                          "content": "search"
+                        },
+                        "value": {
+                          "element": "string",
+                          "meta": {},
+                          "attributes": {
+                            "sourceMap": [
+                              {
+                                "element": "sourceMap",
+                                "meta": {},
+                                "attributes": {},
+                                "content": [
+                                  [
+                                    515,
+                                    154
+                                  ]
+                                ]
+                              }
+                            ]
+                          },
+                          "content": null
+                        }
+                      }
+                    },
+                    {
+                      "element": "member",
+                      "meta": {
+                        "description": {
+                          "element": "string",
+                          "meta": {},
+                          "attributes": {
+                            "sourceMap": [
+                              {
+                                "element": "sourceMap",
+                                "meta": {},
+                                "attributes": {},
+                                "content": [
+                                  [
+                                    429,
+                                    27
+                                  ]
+                                ]
+                              }
+                            ]
+                          },
+                          "content": "Unique identifier"
+                        }
+                      },
+                      "attributes": {
+                        "sourceMap": [
+                          {
+                            "element": "sourceMap",
+                            "meta": {},
+                            "attributes": {},
+                            "content": [
+                              [
+                                389,
+                                124
+                              ]
+                            ]
+                          }
+                        ],
+                        "typeAttributes": [
+                          "required"
+                        ]
+                      },
+                      "content": {
+                        "key": {
+                          "element": "string",
+                          "meta": {},
+                          "attributes": {},
+                          "content": "id"
+                        },
+                        "value": {
+                          "element": "string",
+                          "meta": {},
+                          "attributes": {
+                            "sourceMap": [
+                              {
+                                "element": "sourceMap",
+                                "meta": {},
+                                "attributes": {},
+                                "content": [
+                                  [
+                                    389,
+                                    124
                                   ]
                                 ]
                               }
@@ -313,7 +455,7 @@
                                 "content": [
                                   [
                                     356,
-                                    219
+                                    377
                                   ]
                                 ]
                               }
@@ -339,7 +481,7 @@
                                 "attributes": {},
                                 "content": [
                                   [
-                                    530,
+                                    688,
                                     45
                                   ]
                                 ]
@@ -361,7 +503,7 @@
                                 "attributes": {},
                                 "content": [
                                   [
-                                    545,
+                                    703,
                                     29
                                   ]
                                 ]
