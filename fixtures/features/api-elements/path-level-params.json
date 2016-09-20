@@ -111,6 +111,56 @@
                           "content": null
                         }
                       }
+                    },
+                    {
+                      "element": "member",
+                      "meta": {
+                        "description": "Search query parameter using elastic search"
+                      },
+                      "attributes": {
+                        "typeAttributes": [
+                          "required"
+                        ]
+                      },
+                      "content": {
+                        "key": {
+                          "element": "string",
+                          "meta": {},
+                          "attributes": {},
+                          "content": "search"
+                        },
+                        "value": {
+                          "element": "string",
+                          "meta": {},
+                          "attributes": {},
+                          "content": null
+                        }
+                      }
+                    },
+                    {
+                      "element": "member",
+                      "meta": {
+                        "description": "Unique identifier"
+                      },
+                      "attributes": {
+                        "typeAttributes": [
+                          "required"
+                        ]
+                      },
+                      "content": {
+                        "key": {
+                          "element": "string",
+                          "meta": {},
+                          "attributes": {},
+                          "content": "id"
+                        },
+                        "value": {
+                          "element": "string",
+                          "meta": {},
+                          "attributes": {},
+                          "content": null
+                        }
+                      }
                     }
                   ]
                 }
