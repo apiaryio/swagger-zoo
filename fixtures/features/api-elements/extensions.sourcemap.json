@@ -71,6 +71,32 @@
           }
         },
         {
+          "element": "extension",
+          "meta": {
+            "links": {
+              "element": "array",
+              "content": [
+                {
+                  "element": "link",
+                  "attributes": {
+                    "relation": {
+                      "element": "string",
+                      "content": "profile"
+                    },
+                    "href": {
+                      "element": "string",
+                      "content": "https://help.apiary.io/profiles/api-elements/vendor-extensions/"
+                    }
+                  }
+                }
+              ]
+            }
+          },
+          "content": {
+            "x-root-extension": true
+          }
+        },
+        {
           "element": "resource",
           "attributes": {
             "href": {
