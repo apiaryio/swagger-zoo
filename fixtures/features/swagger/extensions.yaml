@@ -3,7 +3,7 @@ info:
   title: Extensions
   version: '1.0'
   x-info-extension: true
-x-ignored: true
+x-root-extension: true
 paths:
   x-paths-extension: true
   '/test/{id}':
